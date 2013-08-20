@@ -14,4 +14,7 @@ frmRefresher.cs
 -- 
 Put your url
 
-string url = "http://freedns.afraid.org/dynamic/update.php?MDQwSzRQcmRiS0w1Q0syZkhyNThCTEI2Ojk5ODc4MzU=";
+    string url = "<YOUR URL>";
+    
+    
+    
